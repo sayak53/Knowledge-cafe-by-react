@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover_title": "The Lost Island",
+      "author": "Alex Rivera",
+      "author_img": "https://example.com/images/alex_rivera.jpg",
+      "posted_date": "2024-09-18",
+      "reading_time": "7 min",
+      "hashtags": ["#Adventure", "#Mystery", "#Island"]
+    },
+    {
+      "id": 2,
+      "cover_title": "Echoes of the Past",
+      "author": "Marina Clark",
+      "author_img": "https://example.com/images/marina_clark.jpg",
+      "posted_date": "2024-10-02",
+      "reading_time": "12 min",
+      "hashtags": ["#History", "#Drama", "#TimeTravel"]
+    },
+    {
+      "id": 3,
+      "cover_title": "Stellar Dreams",
+      "author": "Jonas Lee",
+      "author_img": "https://example.com/images/jonas_lee.jpg",
+      "posted_date": "2024-08-25",
+      "reading_time": "9 min",
+      "hashtags": ["#ScienceFiction", "#Space", "#Exploration"]
+    },
+    {
+      "id": 4,
+      "cover_title": "Whispers in the Dark",
+      "author": "Sophie Bennett",
+      "author_img": "https://example.com/images/sophie_bennett.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": "15 min",
+      "hashtags": ["#Horror", "#Thriller", "#Suspense"]
+    },
+    {
+      "id": 5,
+      "cover_title": "The Art of Silence",
+      "author": "Ethan Collins",
+      "author_img": "https://example.com/images/ethan_collins.jpg",
+      "posted_date": "2024-09-30",
+      "reading_time": "5 min",
+      "hashtags": ["#Philosophy", "#Minimalism", "#Mindfulness"]
+    }
+  ]
+  
