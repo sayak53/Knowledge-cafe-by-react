@@ -6,17 +6,17 @@
       "author": "Alex Rivera",
       "author_img": "https://img.freepik.com/free-photo/online-message-blog-chat-communication-envelop-graphic-icon-concept_53876-139717.jpg?semt=ais_hybrid",
       "posted_date": "2024-09-18",
-      "reading_time": "7 min",
+      "reading_time": 7,
       "hashtags": ["#Adventure", "#Mystery", "#Island"]
     },
     {
       "id": 2,
       "cover_title": "Echoes of the Past",
-      "cover_image": "Ehttps://img.freepik.com/free-vector/hand-drawn-boho-birthday-facebook-cover_23-2149179474.jpg?ga=GA1.1.197892279.1729527012&semt=ais_hybrid",
+      "cover_image": "https://img.freepik.com/free-photo/travel-concept-close-up-portrait-young-beautiful-attractive-redhair-girl-wtih-trendy-hat-sunglass-smiling-blue-pastel-background-copy-space_1258-309981.jpg?ga=GA1.1.197892279.1729527012&semt=ais_hybrid",
       "author": "Marina Clark",
       "author_img": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-my-blog_144627-47466.jpg?semt=ais_hybrid",
       "posted_date": "2024-10-02",
-      "reading_time": "12 min",
+      "reading_time": 12,
       "hashtags": ["#History", "#Drama", "#TimeTravel"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Jonas Lee",
       "author_img": "https://img.freepik.com/free-photo/teamwork-making-online-blog_53876-94868.jpg?semt=ais_hybrid",
       "posted_date": "2024-08-25",
-      "reading_time": "9 min",
+      "reading_time": 9,
       "hashtags": ["#ScienceFiction", "#Space", "#Exploration"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Sophie Bennett",
       "author_img": "https://img.freepik.com/premium-photo/laptop-screen-displays-vibrant-blog-graphic-amidst-desk-setup-with-plants-office-supplies_132358-98452.jpg?semt=ais_hybrid",
       "posted_date": "2024-10-15",
-      "reading_time": "15 min",
+      "reading_time": 15,
       "hashtags": ["#Horror", "#Thriller", "#Suspense"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "Ethan Collins",
       "author_img": "https://img.freepik.com/premium-photo/notepad-contains-colorful-blog-planning-diagram-with-annotations-drawings_132358-96344.jpg?semt=ais_hybrid",
       "posted_date": "2024-09-30",
-      "reading_time": "5 min",
+      "reading_time": 5,
       "hashtags": ["#Philosophy", "#Minimalism", "#Mindfulness"]
     }
   ]
