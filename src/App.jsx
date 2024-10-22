@@ -2,8 +2,15 @@ import './App.css'
 import Blogs from './components/blogs/Blogs'
 import profile from './assets/images/profile.png'
 import Bookmarks from './components/bookmarks/Bookmarks'
+import { useState } from 'react'
 function App() {
+ 
+  const[bookmarks,setBookmarks] = useState([]);
 
+  const handleAddtoBookmarks = blog => {
+    const newBookmarks = [...bookmarks,blog]
+    setBookmarks(newBookmarks)
+  }
   return (
     <>
       <body className='w-11/12 mx-auto'>
@@ -13,8 +20,8 @@ function App() {
       </div>
 
       <div className='md:flex w-11/12 mx-auto'>
-        <Blogs></Blogs>
-        <Bookmarks></Bookmarks>
+        <Blogs handleAddtoBookmarks = {handleAddtoBookmarks}></Blogs>
+        <Bookmarks bookmarks={bookmarks}></Bookmarks>
       </div>
       </body>
     </>
