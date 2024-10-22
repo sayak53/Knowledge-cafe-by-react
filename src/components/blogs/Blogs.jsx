@@ -13,7 +13,7 @@ const Blogs = () => {
     },)
 
     return (
-        <div className="w-2/3">
+        <div className="w-2/3 space-y-5">
             <h1 className="text-4xl">Blogs:{blogs.length}</h1>
 
             {
